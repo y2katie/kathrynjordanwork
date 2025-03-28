@@ -1,3 +1,5 @@
+import githubImage from './github.png'
+
 const features = [
     { 
       name: 'Technical Instruction', 
@@ -49,7 +51,7 @@ const features = [
             {/* TODO: Replace these images with relevant portfolio images */}
             <img
               alt="Teaching in action"
-              src="https://tailwindcss.com/plus-assets/img/ecommerce-images/product-feature-03-detail-01.jpg"
+              src={githubImage}
               className="rounded-lg bg-gray-100"
             />
             <img
