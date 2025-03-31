@@ -32,9 +32,9 @@ const features = [
       <div className="bg-white">
         <div className="mx-auto grid max-w-2xl grid-cols-1 items-center gap-x-8 gap-y-16 px-4 py-24 sm:px-6 sm:py-32 lg:max-w-7xl lg:grid-cols-2 lg:px-8">
           <div>
-            <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Hi, I'm Kathryn.</h2>
+            <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Hi, Im Kathryn.</h2>
             <p className="mt-4 text-gray-500">
-              Based in NYC, I'm a technical instructor and engineer passionate about creating impactful learning experiences. 
+              Based in NYC, Im a technical instructor and engineer passionate about creating impactful learning experiences. 
               I combine my love for technology, education, and creativity to build innovative solutions and empower others in their tech journey.
             </p>
   
