@@ -71,7 +71,7 @@ export default function Header() {
                 <a href="#" className="block px-3 py-2 text-base font-semibold text-gray-900">Company</a>
               </div>
               <div className="py-6">
-                <a href="#" className="block px-3 py-2.5 text-base font-semibold text-gray-900">Log in</a>
+                <a href="#" className="block px-3 py-2.5 text-base font-semibold text-gray-900">Send Me an Email</a>
               </div>
             </div>
           </div>
