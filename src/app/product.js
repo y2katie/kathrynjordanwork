@@ -25,11 +25,11 @@ export default function ProductPage() {
     <div className="bg-white">
       <div className="mx-auto max-w-7xl px-4 py-24 sm:px-6 sm:py-32">
         <div className="max-w-2xl">
-          <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl mb-6">
-            Hi, I'm Kathryn<span className="text-indigo-600">.</span>
+        <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl mb-6">
+            Hi, I&apos;m Kathryn<span className="text-indigo-600">.</span>
           </h2>
           <p className="text-xl text-gray-500 leading-relaxed mb-16">
-            Based in NYC, I'm a technical instructor and engineer passionate about creating impactful learning experiences. 
+            Based in NYC, I&apos;m a technical instructor and engineer passionate about creating impactful learning experiences. 
             I combine my love for technology, education, and creativity to build innovative solutions and empower others in their tech journey.
           </p>
         </div>
