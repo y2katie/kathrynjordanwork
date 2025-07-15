@@ -1,6 +1,7 @@
 'use client'
 import { useState } from 'react'
-import Image from 'next/image'
+import Image from 'next/image';
+import Link from 'next/link';
 
 
 export default function Header() {
@@ -34,6 +35,7 @@ export default function Header() {
           <a href="#" className="text-sm font-semibold text-gray-900">Linkedin</a>
           <a href="#" className="text-sm font-semibold text-gray-900">Dribble</a>
           <a href="#" className="text-sm font-semibold text-gray-900">Work</a>
+      <Link href="work">Work</Link>
         </div>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
   <button
